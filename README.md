@@ -1,3 +1,5 @@
+Wiki: https://github.com/dmitrykolesnikovich/tinyrenderer-wiki
+
 # Tiny Renderer or how OpenGL works: software rendering in 500 lines of code
 
 # Check [the wiki](https://github.com/ssloy/tinyrenderer/wiki) for the detailed lessons.
